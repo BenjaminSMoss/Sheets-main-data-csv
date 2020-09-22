@@ -17,7 +17,7 @@ TAS and PIA data is relativley straghtforward.
 
 If you have any problems, questions or would like any additional data please do not 
 hisitate to contact me!  I would be delighted start a correspondance:
-b.moss14@imperial.ac.uk, benjamin.moss@ymail.com
+b.moss14<at>imperial.ac.uk, benjamin.moss<at>ymail.com
 
 "The idea is like grass: it craves light, likes crowds, thrives on crossbreeding,
  grows stronger from being stepped on. ~ Ursula K. Le Guin"
