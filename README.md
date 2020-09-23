@@ -1,7 +1,7 @@
 # Sheets-main-data-csv
-Essential data from the La,Rh;STO sheets project
+Essential data from the La,Rh;STO sheets project in CSV format
 
-XPS data shows raw EB folowed by EB after C 1s calibration to 284.8 eV
+XPS data shows raw EB folowed by EB after C 1s calibration to 284.8 eV. O 1s is provided with the VB data to faciliate core line separation analysis. 
 
 In DFT STO, Rh:STO and La,Rh:STO all have differnt VB minima due to the
 introduction of new states. Thus all have different 0K Ef positions
